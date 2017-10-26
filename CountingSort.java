@@ -3,7 +3,7 @@ import java.util.*;
 
 class CountingSort
 {
-void sort(int[] arr)
+void  sort(int[] arr)
 {
 int count[] =new int[10];
 int output[] = new int[arr.length];
